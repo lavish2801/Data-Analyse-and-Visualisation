@@ -1,5 +1,5 @@
 # Data-Analyse-and-Visualisation
-Worked on large data set of Medical premium (987 entries) and Weather (8785 entries).
+Used large data set of Medical premium (987 entries) and Weather (8785 entries) from Kaggle
 
 -> In Medical Dataset imported Pandas library for mathematical operation and Matplot & seaborn library for visualization in python.
 
